@@ -87,9 +87,9 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 2. **Awajun-OP: Multi-domain dataset for Spanish–Awajun Machine Translation.**  
    *Workshop on NLP for Indigenous Languages of the Americas (March 2024).* [Dataset Repo](https://github.com/Ceviche98/Awajun-OP)
 3. **Exploring Linguistic Typology Features in Multilingual Machine Translation.**  
-   *SYGTIP Workshop at NAACL 2021.* [Paper] (https://sigtyp.github.io/workshops/2021/abstracts/16.pdf)
+   *SYGTIP Workshop at NAACL 2021.* [Paper](https://sigtyp.github.io/workshops/2021/abstracts/16.pdf)
 4. **The REPU CS’ Spanish–Quechua submission to the AmericasNLP 2021 Shared Task on Open Machine Translation.**  
-   *Proceedings of the First Workshop on NLP for Indigenous Languages of the Americas (June 2021).* 🏆 **1st Place Winner for Quechua (Track 2).** [Paper]([https://github.com/Ceviche98/REPUcs-AmericasNLP2021](https://aclanthology.org/2021.americasnlp-1.27/)
+   *Proceedings of the First Workshop on NLP for Indigenous Languages of the Americas (June 2021).* 🏆 **1st Place Winner for Quechua (Track 2).** [Paper](https://aclanthology.org/2021.americasnlp-1.27/)
 
 ---
 
