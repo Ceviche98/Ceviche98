@@ -6,9 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-moreno-veliz/)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oscarmorenoveliz.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com/citations?user=MKOvk80AAAAJ&hl=es))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omoreno1998@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London%2C%20UK-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Specializing+in+NLP,+LLMs+%26+Neural+Search;5%2B+Years+Tier-1+Banking+ML+Experience;MSc+AI+(Distinction)+at+Queen+Mary+University+of+London;NAACL+%26+AmericasNLP+Published+Researcher&center=true&width=620&height=45&color=38BDF8&vCenter=true&size=18&weight=600" alt="Typing SVG" />
@@ -25,7 +24,7 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 - 🎓 Graduated with **Distinction in MSc Artificial Intelligence (NLP Stream)** at **Queen Mary University of London (QMUL)** and First Class Honours in Electronic Engineering at **PUCP** (Ranked 4th in graduating class).
 - 💼 Former **Lead / Advanced Data Scientist** at **BCP** (largest bank in Peru) and **BBVA**, where I led experimentation platforms driving **$1M+ incremental profit**, engineered fraud susceptibility models (65% detection rate), and built cash remittance forecasting algorithms saving £110k+ annually.
 - 🔬 **Published NLP Researcher** with papers at **NAACL (SYGTIP)** and **AmericasNLP**, winner of **1st Place in the AmericasNLP 2021 Shared Task** on machine translation for Quechua, and author of the **Awajun-OP** open-access parallel dataset with *Ojo Público*.
-- 🎯 Deep expertise in **Parameter-Efficient Fine-Tuning (LoRA, PiSSA, DoRA)**, **Continual Learning (CaLoRA)**, **Multi-Tier Neural Information Retrieval (MRL, Stella, FAISS)**, and **Vision-Language / Multimodal Reasoning (LongCLIP, LLaVA)**.
+- 🎯 Deep expertise in **Parameter-Efficient Fine-Tuning (LoRA, PiSSA, DoRA)**, **Continual Learning (CaLoRA)**, **Multi-Tier Information Retrieval (MRL, Stella, FAISS)**, and **Vision-Language / Multimodal Reasoning (LongCLIP, LLaVA)**.
 
 ---
 
@@ -63,9 +62,6 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 #### 📊 Experimentation & Classical Planning
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing_&_Causal_Inference-6366F1?style=flat-square&logo=science&logoColor=white)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-4F46E5?style=flat-square&logo=speedtest&logoColor=white)
-![PDDL Planning](https://img.shields.io/badge/PDDL_Symbolic_Planning-059669?style=flat-square&logo=graphql&logoColor=white)
-![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
@@ -75,7 +71,7 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 
 | Repository | Domain | Core Tech & Architecture | Highlight Benchmark / Accolade |
 |:---|:---|:---|:---:|
-| 🏛️ **[PEFT-CL_Spanish_Peruvian_NMT](https://github.com/Ceviche98/PEFT-CL_Spanish_Peruvian_NMT)** | **MSc AI Thesis** | `Meta NLLB-200-1.3B`, `LoRA`, `PiSSA`, `FFT`, `CaLoRA` continual learning | **MSc AI Thesis (Distinction)** across 5 low-resource languages |
+| 🏛️ **[PEFT-CL_Spanish_Peruvian_NMT](https://github.com/Ceviche98/PEFT-CL_Spanish_Peruvian_NMT)** | **MSc AI Thesis** | `Meta NLLB-200-1.3B`, `LoRA`, `PiSSA`, `FFT`, `CaLoRA` continual learning | **MSc AI Thesis (Distinction)** across 5 peruvian low-resource languages |
 | 🔍 **[scifact-tiered-neural-search](https://github.com/Ceviche98/scifact-tiered-neural-search)** | **Neural Search & IR** | `Stella-1.5B`, `Qwen2.5-3B HyDE`, `GOLFer`, `MRL 256D`, `FAISS`, `Streamlit` | **nDCG@10: 0.8063**, Recall@10: 93.0% (Best Proposal & Top 2 System) |
 | 📊 **[hybrid-tweet-sentiment-analysis](https://github.com/Ceviche98/hybrid-tweet-sentiment-analysis)** | **NLP & ML Ensembles** | Multi-Lexicon (`VADER`, `AFINN`, `Hu & Liu`), `SentenceTransformers`, `LightGBM` | **Score: 97/100 (Cohort Rank #1)**, 91.04% CV F1 |
 | 👁️ **[longclip-llava-multimodal-vqa](https://github.com/Ceviche98/longclip-llava-multimodal-vqa)** | **Multimodal Vision-Language** | `LongCLIP-ViT-B/32` (248 tokens), `LLaVA`, `Qwen-0.6B`, `PiSSA PEFT` | **67.62% Test VQA Accuracy** (Rank #18 Cohort) |
@@ -87,13 +83,13 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 ### 📚 Selected Peer-Reviewed Publications
 
 1. **Findings of the AmericasNLP 2025 Shared Tasks on Machine Translation, Creation of Educational Material, and Translation Metrics for Indigenous Languages of the Americas.**  
-   *The Fifth Workshop on NLP for Indigenous Languages of the Americas (May 2025).* [Paper](https://github.com/AmericasNLP/americasnlp2025)
+   *The Fifth Workshop on NLP for Indigenous Languages of the Americas (May 2025).* [Paper](https://aclanthology.org/2025.americasnlp-1.16/)
 2. **Awajun-OP: Multi-domain dataset for Spanish–Awajun Machine Translation.**  
    *Workshop on NLP for Indigenous Languages of the Americas (March 2024).* [Dataset Repo](https://github.com/Ceviche98/Awajun-OP)
 3. **Exploring Linguistic Typology Features in Multilingual Machine Translation.**  
-   *SYGTIP Workshop at NAACL 2021.*
+   *SYGTIP Workshop at NAACL 2021.* [Paper] (https://sigtyp.github.io/workshops/2021/abstracts/16.pdf)
 4. **The REPU CS’ Spanish–Quechua submission to the AmericasNLP 2021 Shared Task on Open Machine Translation.**  
-   *Proceedings of the First Workshop on NLP for Indigenous Languages of the Americas (June 2021).* 🏆 **1st Place Winner for Quechua (Track 2).** [Code](https://github.com/Ceviche98/REPUcs-AmericasNLP2021)
+   *Proceedings of the First Workshop on NLP for Indigenous Languages of the Americas (June 2021).* 🏆 **1st Place Winner for Quechua (Track 2).** [Paper]([https://github.com/Ceviche98/REPUcs-AmericasNLP2021](https://aclanthology.org/2021.americasnlp-1.27/)
 
 ---
 
