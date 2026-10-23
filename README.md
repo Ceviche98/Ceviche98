@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-moreno-veliz/)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oscarmorenoveliz.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com/citations?user=MKOvk80AAAAJ&hl=es))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MKOvk80AAAAJ&hl=es)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omoreno1998@gmail.com)
 
 <p align="center">
@@ -71,7 +71,7 @@ I am a **Senior Data Scientist and AI/NLP Researcher** based in London, UK, comb
 
 | Repository | Domain | Core Tech & Architecture | Highlight Benchmark / Accolade |
 |:---|:---|:---|:---:|
-| 🏛️ **[PEFT-CL_Spanish_Peruvian_NMT](https://github.com/Ceviche98/PEFT-CL_Spanish_Peruvian_NMT)** | **MSc AI Thesis** | `Meta NLLB-200-1.3B`, `LoRA`, `PiSSA`, `FFT`, `CaLoRA` continual learning | **MSc AI Thesis (Distinction)** across 5 peruvian low-resource languages |
+| 🏛️ **[PEFT-CL_Spanish_Peruvian_NMT](https://github.com/Ceviche98/PEFT-CL_Spanish_Peruvian_NMT)** | **MSc AI Thesis** | `Meta NLLB-200-1.3B`, `LoRA`, `PiSSA`, `FFT`, `CaLoRA` continual learning | **MSc AI Thesis (Distinction)** across 5 Peruvian low-resource languages |
 | 🔍 **[scifact-tiered-neural-search](https://github.com/Ceviche98/scifact-tiered-neural-search)** | **Neural Search & IR** | `Stella-1.5B`, `Qwen2.5-3B HyDE`, `GOLFer`, `MRL 256D`, `FAISS`, `Streamlit` | **nDCG@10: 0.8063**, Recall@10: 93.0% (Best Proposal & Top 2 System) |
 | 📊 **[hybrid-tweet-sentiment-analysis](https://github.com/Ceviche98/hybrid-tweet-sentiment-analysis)** | **NLP & ML Ensembles** | Multi-Lexicon (`VADER`, `AFINN`, `Hu & Liu`), `SentenceTransformers`, `LightGBM` | **Score: 97/100 (Cohort Rank #1)**, 91.04% CV F1 |
 | 👁️ **[longclip-llava-multimodal-vqa](https://github.com/Ceviche98/longclip-llava-multimodal-vqa)** | **Multimodal Vision-Language** | `LongCLIP-ViT-B/32` (248 tokens), `LLaVA`, `Qwen-0.6B`, `PiSSA PEFT` | **67.62% Test VQA Accuracy** (Rank #18 Cohort) |
